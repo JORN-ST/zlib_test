@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/andre/CLionProjects/zlib_test/main.c
+stdio.h
+-
+string.h
+-
+assert.h
+-
+zlib.h
+/cygdrive/c/Users/andre/CLionProjects/zlib_test/zlib.h
+fcntl.h
+-
+io.h
+-
+
