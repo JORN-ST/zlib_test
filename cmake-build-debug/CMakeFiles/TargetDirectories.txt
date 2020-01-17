@@ -1,3 +1,0 @@
-/cygdrive/c/Users/andre/CLionProjects/zlib_test/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/cygdrive/c/Users/andre/CLionProjects/zlib_test/cmake-build-debug/CMakeFiles/zlib_test.dir
-/cygdrive/c/Users/andre/CLionProjects/zlib_test/cmake-build-debug/CMakeFiles/edit_cache.dir
