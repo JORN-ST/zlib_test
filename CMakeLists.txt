@@ -7,9 +7,9 @@ set(CFLAGS -g)
 find_package(ZLIB REQUIRED)
 if (FOUND)
     include_directories(${PROJECT_NAME} ${ZLIB_INCLUDE_DIRS})
-    target_link_libraries(${PROJECT_NAME} ${ZLIB_LIBRARIES})
 endif()
 
 set(ZLIB_TEST_SOURCES main.c)
 
 add_executable(zlib_test main.c)
+target_link_libraries(${PROJECT_NAME} ${ZLIB_LIBRARIES})
